@@ -1,5 +1,5 @@
-
-# GFT START #2 BootcampJava - Learning Object Orientation (Digital Innovation One)
+# Digital Innovation One:  
+# GFT-START-2-JavaBootcamp - Learning Object Orientation
 
  Java project that explores the pillars of Object Orientation (OO) in practice.
 
